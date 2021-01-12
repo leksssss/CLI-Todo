@@ -1,12 +1,13 @@
 # CLI-Todo
-A command line interface to manage your todo lists. This Script is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the Python.
+A command line interface to manage your todo lists. This Script is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in Python.
 
-### _Author : Lekha Shanthini_
+ _Author : Lekha Shanthini_
 
 ## Getting started
 1. Install Python: Python is usually installed by default on most modern systems. To check what your currently have, open a terminal and run the following command
 
 `python3 --version`
+
 This should output some information on the installed Python version.
 
 2. The code is written in todo.py file.
